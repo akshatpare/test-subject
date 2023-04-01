@@ -1,0 +1,51 @@
+.Blog{
+  position: fixed;
+  width: 86px;
+  height: 26px;
+  left: 1504px;
+  top: 20px;
+
+
+}
+
+
+.forest{
+  position: absolute;
+  width: 1920px;
+  height: 828px;
+  left: 0px;
+  top: 70px;
+}
+
+.form{
+  
+  position:absolute;
+  left: 850px;
+  bottom: 460px;
+
+}
+
+
+.Login{
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #7AA874;
+  position: fixed;
+  width: 86px;
+  height: 26px;
+  left: 1750px;
+  top: 20px;
+}
+
+
+
+.Signup{
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #7AA874;
+  position: fixed;
+  width: 86px;
+  height: 26px;
+  left: 1650px;
+  top: 20px;
+}
